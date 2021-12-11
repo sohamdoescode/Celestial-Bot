@@ -1,5 +1,4 @@
 # Celestial-Bot
-<br>
 <h3> About </h3>
 <p> A project I started working on in mid-2020, using the Discord API. It was launched publicly for a short while but the project eventually died as I had no time to maintain or run it. 
 The bot had undergone close to 2 re-writes and multiple patches. It uses discord.js v12 and required node.js to run. This is the third and final re-write of the bot <b> which was abandoned halfway </b>, due to the same reason stated above and the unreal number of changes the library brought every year. 
